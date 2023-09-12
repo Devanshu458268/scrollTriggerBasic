@@ -1,0 +1,41 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body,html{
+height: 100%;
+width: 100%;
+
+}
+
+.page1{
+    height: 100%;
+    width: 100%;
+    background-color: cadetblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.page2{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(69, 110, 232);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.page3{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(146, 95, 160);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    height: 200px;
+    width: 200px;
+    background-color: darkorange;
+}
